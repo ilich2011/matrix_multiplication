@@ -1,0 +1,5 @@
+﻿  MPI_matrix_multiplication.cpp
+C:\Projects\Visual Studio\MPI_matrix_multiplication\MPI_matrix_multiplication\MPI_matrix_multiplication.cpp(31,12): warning C4101: 'timeStart': unreferenced local variable
+  MPI_matrix_multiplication.vcxproj -> C:\Projects\Visual Studio\MPI_matrix_multiplication\x64\Debug\MPI_matrix_multiplication.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
